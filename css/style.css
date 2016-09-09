@@ -33,10 +33,20 @@ p {
     margin: 0 0 20px;
     font-size: 16px;
     line-height: 1.6em;
+    text-align: left;
 }
 
 p.lead {
 	font-weight: 600;
+}
+
+li {
+    text-align: left;
+}
+
+ul.start-list > li {
+    padding-top: 1em;
+    padding-bottom: 1em
 }
 
 a {
