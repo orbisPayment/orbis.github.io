@@ -182,10 +182,21 @@ a:focus {
   line-height: 1em;
 }
 
+.navbar-title{
+    margin-top: .95em;
+}
+
+.navbar-brand img{
+    float: left;
+}
+
 .navbar-brand h1{
 	color: #fff;
   font-size: 20px;
   line-height: 40px;
+  position: fixed;
+  top: 1.5em;
+  left: 6.5em;
 }
 
 .navbar-brand:focus {
