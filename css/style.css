@@ -183,11 +183,13 @@ a:focus {
 }
 
 .navbar-title{
-    margin-top: .95em;
+    display: inline-block;
+    padding-left: 1em;
 }
 
 .navbar-brand img{
     float: left;
+    margin-top: .6em;
 }
 
 .navbar-brand h1{
